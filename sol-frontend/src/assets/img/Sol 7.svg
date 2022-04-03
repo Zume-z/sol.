@@ -1,0 +1,20 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="1000" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M900 500C900 606.087 857.857 707.828 782.843 782.843C707.828 857.857 606.087 900 500 900C393.913 900 292.172 857.857 217.157 782.843C142.143 707.828 100 606.087 100 500C100 393.913 142.143 292.172 217.157 217.157C292.172 142.143 393.913 100 500 100C606.087 100 707.828 142.143 782.843 217.157C857.857 292.172 900 393.913 900 500Z" fill="url(#paint0_radial_3_4)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M900 340C900 349.813 896.102 359.224 889.163 366.163C882.224 373.102 872.813 377 863 377C853.187 377 843.776 373.102 836.837 366.163C829.898 359.224 826 349.813 826 340C826 330.187 829.898 320.776 836.837 313.837C843.776 306.898 853.187 303 863 303C872.813 303 882.224 306.898 889.163 313.837C896.102 320.776 900 330.187 900 340Z" fill="url(#paint1_radial_3_4)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M900 340C900 349.813 896.102 359.224 889.163 366.163C882.224 373.102 872.813 377 863 377C853.187 377 843.776 373.102 836.837 366.163C829.898 359.224 826 349.813 826 340C826 330.187 829.898 320.776 836.837 313.837C843.776 306.898 853.187 303 863 303C872.813 303 882.224 306.898 889.163 313.837C896.102 320.776 900 330.187 900 340Z" fill="url(#paint2_radial_3_4)"/>
+<defs>
+<radialGradient id="paint0_radial_3_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(500 100) rotate(90) scale(800)">
+<stop stop-color="#DB0000"/>
+<stop offset="1" stop-color="#020000" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_3_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(826 303) rotate(63.4349) scale(82.7345)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#020000" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_3_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(826 303) rotate(63.4349) scale(82.7345)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#020000" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

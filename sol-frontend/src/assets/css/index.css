@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Nb Grotesk Pro Mono';
+  font-weight: 300;
+  src: url('../font/nb-grotesk-pro-mono-light.woff');
+}
+
+@font-face {
+  font-family: 'Nb Grotesk Pro Mono';
+  font-weight: 400;
+  src: url('../font/nb-grotesk-pro-mono-regular.woff');
+}
+
+@font-face {
+  font-family: 'Nb Grotesk Pro Mono';
+  font-weight: 700;
+  src: url('../font/nb-grotesk-pro-mono-bold.woff');
+}
+
+@font-face {
+  font-family: 'Nb International Pro';
+  font-weight: 400;
+  src: url('../font/nb_international_pro_regular-webfont.woff2');
+}
+@font-face {
+  font-family: 'Nb International Pro';
+  font-weight: 700;
+  src: url('../font/nb_international_pro_medium-webfont.woff2');
+}
+
+html {
+  @apply antialiased;
+  @apply text-gray-50;
+  @apply bg-[#000000];
+}
+
+#app {
+  @apply text-sm;
+}

@@ -1,0 +1,40 @@
+{
+  "name": "saliva",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
+    "@esbuild-plugins/node-modules-polyfill": "^0.1.4",
+    "@headlessui/vue": "^1.4.3",
+    "@heroicons/vue": "^1.0.5",
+    "@tailwindcss/aspect-ratio": "^0.3.0",
+    "@types/node": "^16.11.7",
+    "@walletconnect/client": "^1.7.1",
+    "@walletconnect/qrcode-modal": "^1.7.1",
+    "@walletconnect/web3-provider": "^1.7.1",
+    "autoprefixer": "^10.4.0",
+    "ethers": "^5.5.3",
+    "fortmatic": "^2.2.1",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19",
+    "vue": "^3.2.23",
+    "vue-router": "4",
+    "web3modal": "^1.9.5",
+    "web3modal-vue": "^1.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "esbuild": "^0.13.14",
+    "typescript": "^4.4.3",
+    "vite": "^2.6.4",
+    "vue-tsc": "^0.3.0"
+  },
+  "engines": {
+    "node": "^16.13.0"
+  }
+}
